@@ -16,3 +16,13 @@ https://www.youtube.com/watch?v=ZqVWMGbrOmo&list=PLbPvnlmz6e_L_3Zw_fGtMcMY0eAOZn
 # Referencia :
 
 https://www.youtube.com/watch?v=nnNxe6gzb-8&list=PLbPvnlmz6e_L_3Zw_fGtMcMY0eAOZnN-H&index=5
+
+
+# OpenMetaData
+
+#referencia
+
+https://docs.open-metadata.org/latest/quick-start/local-docker-deployment
+
+
+https://www.youtube.com/watch?v=r0X-c7lWT8U
